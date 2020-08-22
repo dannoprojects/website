@@ -1,0 +1,62 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Systems Administrator
+# your company information
+company:
+  name: OmnicomMediaGroup
+  url: "https://www.omnicommediagroup.com"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I’m a System Administrator automating enterprise tasks with PowerShell, software development, and problem solving skills. Working to transition to a DevOps role using cloud engineering. Last year I achieved AWS Cloud Practitioner status.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "dannoprojects_at_gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/dannoprojects"
+
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/dan-rowe-75a33413/"
+
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+# softSkills:
+# - name: Solutions driven
+#   percentage: 100
+#   color: blue
+# - name: Team Work
+#   percentage: 100
+#   color: blue
+# - name: Communication
+#   percentage: 100
+#   color: blue
+# - name: Self improvement
+#   percentage: 100
+#   color: blue
+
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

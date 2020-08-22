@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: PowerShell
+  # icon: "images/skills/powershell.png"
+  summary: "Primary development and scripting language."
+  # url: "https://docs.microsoft.com/en-us/powershell/"
+
+- name: Python
+  # icon: "images/skills/python.png"
+  summary: "Intermediate python."
+  # url: ""
+
+- name: Git
+  # icon: "images/skills/git.png"
+  summary: "Experienced with Git."
+  # url: "https://git-scm.com/"
+
+- name: Process Automation
+  summary: Automating routine administration tasks, ETL operations.
+
+- name: O365 Administration
+  summary:  Global administrator of an 18K user O365 tenant.
+
+- name: AWS 
+  # icon: "images/skills/aws.png"
+  summary: "Certified AWS Cloud Practioner"
+
