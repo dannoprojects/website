@@ -3,6 +3,13 @@ title: "Welcome"
 author: "Dan"
 date: 2020-08-21T09:36:10-07:00
 draft: false
+
+menu:
+  footer:
+     name: Imprint
+     url: /imprint/
+     weight: 1
+
 ---
 
 ‘Hello World!’ 
