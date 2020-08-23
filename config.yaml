@@ -37,7 +37,7 @@ params:
     inverted: /assets/images/inverted-logo.png
 
   # GitHub repo URL of your site
-  gitRepo: <your site's Github repo URL>
+  gitRepo: https://github.com/dannoprojects/website
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
